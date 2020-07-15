@@ -6,6 +6,7 @@
 
 - Gamedev in zig and rust.
 - Embedded on the side.
+- Runs nixos on everything.
 
 Main project is [zetaframe](https://github.com/zetaframe/zetaframe).
 
