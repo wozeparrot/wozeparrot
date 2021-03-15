@@ -6,7 +6,7 @@
 
 Current OS, runs on my servers and personal computers. Maybe even mobile devices soon.
 
-dotfiles soon...
+*dotfiles soon...*
 
 ### [zig](https://ziglang.org/)
 
