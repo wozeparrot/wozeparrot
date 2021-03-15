@@ -1,17 +1,26 @@
 # wozeparrot :parrot:
 
-## Stuff
+## Currently Used Things
 
 ### [NixOS](https://nixos.org/)
-Current OS
-### [endron](https://github.com/wozeparrot/endron)
-My programming language
+
+Current OS, runs on my servers and personal computers. Maybe even mobile devices soon.
+
+dotfiles soon...
+
 ### [zig](https://ziglang.org/)
+
 Current programming language
-### [zetaframe](https://github.com/zetaframe)
-Zig gamedev framework
-### [laddercraft](https://github.com/wozeparrot/laddercraft)
-High-performance zig minecraft server
+
+## Major Projects
+
+- ### [endron](https://github.com/wozeparrot/endron)
+  - A statically-typed programming language that compiles to everything.
+- ### [laddercraft](https://github.com/wozeparrot/laddercraft)
+  - High-performance zig minecraft server, design to be scaled up to dozens of cores.
+- ### [zetaframe](https://github.com/zetaframe)
+  - A modular zig gamedev framework.
+  - Slightly dead.
 
 ## Stats
 
