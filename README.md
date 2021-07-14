@@ -24,8 +24,10 @@ Current programming language
 
 ## Stats
 
-![https://github.com/wozeparrot](https://github-readme-stats.vercel.app/api/?username=wozeparrot&line_height=20&title_color=fff&theme=synthwave)
+<a href="https://github.com/wozeparrot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wozeparrot&langs_count=8&hide_border=true&bg_color=90,d6c4ec,9588cc,1164b3,00336c&text_color=fff&title_color=1164b3&border_radius=0"/>
+</a>
 
----
-
-![https://github.com/wozeparrot](https://images.unsplash.com/photo-1607818028136-3f474d95f867?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=800)
+<a href="https://github.com/wozeparrot">
+  <img align="center" src="https://images.unsplash.com/photo-1554310603-d39d43033735?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&h=405&q=80"/>
+</a>
