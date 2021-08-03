@@ -17,7 +17,7 @@ Current programming language
 - ### [endron](https://github.com/wozeparrot/endron)
   - A statically-typed programming language that compiles to everything.
 - ### [laddercraft](https://github.com/wozeparrot/laddercraft)
-  - High-performance zig minecraft server, design to be scaled up to dozens of cores.
+  - High-performance zig minecraft server, designed to be scaled up to dozens of cores.
 - ### [zetaframe](https://github.com/zetaframe)
   - A modular zig gamedev framework.
   - Slightly dead.
