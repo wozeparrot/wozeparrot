@@ -14,10 +14,14 @@ Current programming language
 
 ## Major Projects
 
+- ### [wozey.service](https://github.com/wozeparrot/wozey.service)
+  - A opinionated Discord bot.
 - ### [endron](https://github.com/wozeparrot/endron)
   - A statically-typed programming language that compiles to everything.
+  - Slightly dead.
 - ### [laddercraft](https://github.com/wozeparrot/laddercraft)
   - High-performance zig minecraft server, designed to be scaled up to dozens of cores.
+  - Slightly dead.
 - ### [zetaframe](https://github.com/zetaframe)
   - A modular zig gamedev framework.
   - Slightly dead.
