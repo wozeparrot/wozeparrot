@@ -29,7 +29,7 @@ Current programming language
 ## Stats
 
 <a href="https://github.com/wozeparrot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wozeparrot&langs_count=6&hide_border=true&bg_color=90,d6c4ec,9588cc,1164b3,00336c&text_color=fff&title_color=1164b3&border_radius=0"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wozeparrot&count_private=true&langs_count=6&hide_border=true&bg_color=90,d6c4ec,9588cc,1164b3,00336c&text_color=fff&title_color=1164b3&border_radius=0"/>
 </a>
 
 <a href="https://github.com/wozeparrot">
