@@ -10,21 +10,22 @@ Current OS, runs on my servers and personal computers. Maybe even mobile devices
 
 ### [zig](https://ziglang.org/)
 
-Current programming language
+Language of choice for pretty much everything.
+
+### [rust](https://www.rust-lang.org/)
+
+Language of choice for primarily desktop applications.
 
 ## Major Projects
 
 - ### [wozey.service](https://github.com/wozeparrot/wozey.service)
   - A opinionated Discord bot.
-- ### [endron](https://github.com/wozeparrot/endron)
+  - Written in lua.
+- ### [endron](https://github.com/enqy/endron)
   - A statically-typed programming language that compiles to everything.
-  - Slightly dead.
-- ### [laddercraft](https://github.com/wozeparrot/laddercraft)
-  - High-performance zig minecraft server, designed to be scaled up to dozens of cores.
-  - Slightly dead.
 - ### [zetaframe](https://github.com/zetaframe)
-  - A modular zig gamedev framework.
-  - Slightly dead.
+  - A modular zig game development framework.
+  - Mainly targeting VR games.
 
 ## Stats
 
