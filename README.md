@@ -33,7 +33,7 @@ Language of choice for primarily desktop applications.
   - Future redesign in progress as a more hardware focused language.
   - Work on this restarting *soon*...
 - ### [entropy](https://github.com/wozeparrot/entropy)
-  - A experience development framework using nelua, a lua-like language that compiles to c.
+  - A experience development framework using [nelua](https://nelua.io), a lua-like language that compiles to c.
   - Leverages the nix build system heavily to support cross compilation and easy dependecy management.
   - Utilizes next generation WebGPU for accelerated rendering.
 - ### [wbot](https://github.com/wozeparrot/wbot)
@@ -42,11 +42,11 @@ Language of choice for primarily desktop applications.
   - Better reimplementations of many wpilib functions in wren such as the command framework and scheduler.
   - Real world testing on [Team 4308's](team4308.ca/) 2022 robot.
 - ### [raymarcher2](https://github.com/wozeparrot/raymarcher2)
-  - Uses glsl compiled to SPIR-V shaders that runs on a python based host programming using vulkan.
+  - Uses glsl compiled to SPIR-V shaders that runs on a python based host program using vulkan.
   - Implements a full raymarching pipeline with reflections and accurate light simulation.
   - Contains 4 demo scenes in glsl and 1 demo scene using a python based DSL.
 - ### [hoshihoshi](https://github.com/wozeparrot/hoshihoshi)
-  - A fully open source virtual avatar motion capture system based on your webcam.
+  - A fully open source virtual avatar motion capture system using your webcam.
   - Written in python with html/js for the frontend.
   - Utilizes the high performance [mediapipe](https://github.com/google/mediapipe/) library from Google to provide face mesh data.
   - Implements multiple filters on top of raw face mesh data to ensure accurate tracking.
