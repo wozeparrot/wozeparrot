@@ -1,7 +1,5 @@
 # wozeparrot :parrot:
 
-***Looking for work!***
-
 ## Currently Used Things
 
 ### [NixOS](https://nixos.org/)
