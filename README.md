@@ -38,7 +38,7 @@ Language of choice for primarily desktop applications.
   - Highly experimental bindings of [wpilib](https://github.com/wpilibsuite/allwpilib) to the [wren](https://wren.io/) programming language.
   - Utilizes c++ just for bindings to native and vendor specific functions.
   - Better reimplementations of many wpilib functions in wren such as the command framework and scheduler.
-  - Real world testing on [Team 4308's](team4308.ca/) 2022 robot.
+  - Real world testing on [Team 4308's](https://github.com/Team4308/) 2022 robot.
 - ### [raymarcher2](https://github.com/wozeparrot/raymarcher2)
   - Uses glsl compiled to SPIR-V shaders that runs on a python based host program using vulkan.
   - Implements a full raymarching pipeline with reflections and accurate light simulation.
