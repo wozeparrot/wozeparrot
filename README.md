@@ -14,9 +14,17 @@ The nix package manager is used in all of my projects to provide reproducible bu
 
 Language of choice for pretty much everything.
 
+### [nelua](https://nelua.io/)
+
+Primary game development langauge.
+
 ### [rust](https://www.rust-lang.org/)
 
 Language of choice for primarily desktop applications.
+
+### [lua](https://www.lua.org/)
+
+Almost favourite scripting language. Mostly for discord bots.
 
 ## Projects that I think are cool!
 
