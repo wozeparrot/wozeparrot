@@ -29,7 +29,7 @@ Almost favourite scripting language. Mostly for discord bots.
 ## Projects that I think are cool!
 
 - ### [wozey.service](https://github.com/wozeparrot/wozey.service)
-  - A opinionated Discord bot.
+  - An opinionated Discord bot.
   - Written in lua with a splash of python for that juicy *AI*.
   - A modular framework that allows easy creation of new functionality.
   - A builtin AI chatbot that leverages multiple AI models.
