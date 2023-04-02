@@ -29,7 +29,9 @@ Language of choice for primarily desktop applications.
 - ### [endron](https://github.com/enqy/endron)
   - A statically-typed programming language that compiles to everything.
   - Future redesign in progress as a more hardware focused language.
-  - Work on this restarting *soon*...
+- ### [enmity44](https://github.com/enqy/enmity44)
+  - Minimal, wireless 44-key split keyboard.
+  - Effortlessly portable with absolutely no bells or whistles.
 - ### [entropy](https://github.com/wozeparrot/entropy)
   - A experience development framework using [nelua](https://nelua.io), a lua-like language that compiles to c.
   - Leverages the nix build system heavily to support cross compilation and easy dependecy management.
@@ -39,6 +41,10 @@ Language of choice for primarily desktop applications.
   - Utilizes c++ just for bindings to native and vendor specific functions.
   - Better reimplementations of many wpilib functions in wren such as the command framework and scheduler.
   - Real world testing on [Team 4308's](https://github.com/Team4308/) 2022 robot.
+- ### [skyror](https://github.com/enqy/skyror)
+  - An accelerator oriented instruction set.
+  - Vector oriented.
+  - Mostly RISC.
 - ### [raymarcher2](https://github.com/wozeparrot/raymarcher2)
   - Uses glsl compiled to SPIR-V shaders that runs on a python based host program using vulkan.
   - Implements a full raymarching pipeline with reflections and accurate light simulation.
