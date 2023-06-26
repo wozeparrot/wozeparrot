@@ -6,7 +6,7 @@
 
 Current OS, runs on my servers and personal computers. Maybe even mobile devices soon.
 
-*dotfiles soon...*
+~*dotfiles soon...*~ dotfiles finally [here](https://github.com/wozeparrot/solarsys)!
 
 The nix package manager is used in all of my projects to provide reproducible builds and reproducible development environments.
 
